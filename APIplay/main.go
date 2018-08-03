@@ -1,3 +1,7 @@
+// RESTful API in Go and MongoDB
+// The REST API service will expose endpoints to manage a store of movies. 
+// The operations that our endpoints will allow are GET, POST, PUT, DELETE
+
 package main
 import (
     "fmt"
